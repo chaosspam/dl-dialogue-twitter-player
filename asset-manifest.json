@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c53e618.css",
-    "main.js": "/static/js/main.f383d7a7.js",
-    "static/js/787.4fc151e3.chunk.js": "/static/js/787.4fc151e3.chunk.js",
-    "static/media/dragalialostzh_tw.ttf": "/static/media/dragalialostzh_tw.8e9f2f808a647c97d93d.ttf",
-    "static/media/dragalialostjp.otf": "/static/media/dragalialostjp.e5c30988d9aba995197a.otf",
-    "static/media/dragalialostzh_cn.ttf": "/static/media/dragalialostzh_cn.3d9d3df35877a8b5b340.ttf",
-    "static/media/bgm_utopia.mp3": "/static/media/bgm_utopia.901a4d0fed38fc333512.mp3",
-    "static/media/touch.wav": "/static/media/touch.935cca5ea5159b9ba44a.wav",
-    "static/media/dragalialosten.ttf": "/static/media/dragalialosten.a5b0593ad20a8342c70f.ttf",
-    "index.html": "/index.html",
-    "main.2c53e618.css.map": "/static/css/main.2c53e618.css.map",
-    "main.f383d7a7.js.map": "/static/js/main.f383d7a7.js.map",
-    "787.4fc151e3.chunk.js.map": "/static/js/787.4fc151e3.chunk.js.map"
+    "main.css": "/dl-dialogue-twitter-player/static/css/main.f0fccc32.css",
+    "main.js": "/dl-dialogue-twitter-player/static/js/main.39bde89d.js",
+    "static/js/787.4fc151e3.chunk.js": "/dl-dialogue-twitter-player/static/js/787.4fc151e3.chunk.js",
+    "static/media/dragalialostzh_tw.ttf": "/dl-dialogue-twitter-player/static/media/dragalialostzh_tw.8e9f2f808a647c97d93d.ttf",
+    "static/media/dragalialostjp.otf": "/dl-dialogue-twitter-player/static/media/dragalialostjp.e5c30988d9aba995197a.otf",
+    "static/media/dragalialostzh_cn.ttf": "/dl-dialogue-twitter-player/static/media/dragalialostzh_cn.3d9d3df35877a8b5b340.ttf",
+    "static/media/bgm_utopia.mp3": "/dl-dialogue-twitter-player/static/media/bgm_utopia.901a4d0fed38fc333512.mp3",
+    "static/media/touch.wav": "/dl-dialogue-twitter-player/static/media/touch.935cca5ea5159b9ba44a.wav",
+    "static/media/dragalialosten.ttf": "/dl-dialogue-twitter-player/static/media/dragalialosten.a5b0593ad20a8342c70f.ttf",
+    "index.html": "/dl-dialogue-twitter-player/index.html",
+    "main.f0fccc32.css.map": "/dl-dialogue-twitter-player/static/css/main.f0fccc32.css.map",
+    "main.39bde89d.js.map": "/dl-dialogue-twitter-player/static/js/main.39bde89d.js.map",
+    "787.4fc151e3.chunk.js.map": "/dl-dialogue-twitter-player/static/js/787.4fc151e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c53e618.css",
-    "static/js/main.f383d7a7.js"
+    "static/css/main.f0fccc32.css",
+    "static/js/main.39bde89d.js"
   ]
 }
