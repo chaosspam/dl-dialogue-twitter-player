@@ -1,0 +1,7 @@
+canvas {
+  background-color: black;
+  display: block;
+  margin: 0 auto;
+  max-width: calc(100vh / 890 * 500);
+  width: 100%;
+}

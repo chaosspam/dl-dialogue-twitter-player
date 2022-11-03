@@ -1,13 +1,37 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* Font face for dialogue text */
+@font-face {
+  font-family: "dragalialost_en";
+  src: url("fonts/dragalialosten.ttf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "dragalialost_ja";
+  src: url("fonts/dragalialostjp.otf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "dragalialost_zh_tw";
+  src: url("fonts/dragalialostzh_tw.ttf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "dragalialost_zh_cn";
+  src: url("fonts/dragalialostzh_cn.ttf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
 }
